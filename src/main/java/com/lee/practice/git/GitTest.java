@@ -15,7 +15,7 @@ public class GitTest {
 
     @RequestMapping("/")
     public String home() {
-        return "hi git! -v.08 -master update! ----merge合并分支clx";
+        return "hi git! + github!";
     }
 
 }
