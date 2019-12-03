@@ -15,7 +15,7 @@ public class GitTest {
 
     @RequestMapping("/")
     public String home() {
-        return "hi git!";
+        return "hi git! -v.01";
     }
 
 }
